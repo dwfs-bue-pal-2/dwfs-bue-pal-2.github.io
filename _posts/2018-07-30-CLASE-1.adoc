@@ -1,6 +1,8 @@
 = CLASE 1
+:published_at: 2018-07-30
+:hp-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReeStWIUJdXxZN-qTjIhMjGnc6EV_ov_pzBo3St31UbW2jre7qoA
+:hp-tags: Acamica, LAN, WAN, Internet, Clase 1
 
-#### Fecha: 24/7/2018
 
 ### OBJETIVOS DE LA CLASE:
 * Modalidad de trabajo
@@ -25,8 +27,7 @@ Vamos a meternos de lleno con HTML y vamos a resolver dudas.
 
 ###### FOTOS DE LA CLASE
 
-<img src="http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto1.png" />
+image::http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto1.png[]
 
-<img src="http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto2.png" />
+image::http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto2.png[]
 
-![test](https://github.com/favicon.ico)
