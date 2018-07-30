@@ -1,5 +1,6 @@
 = CLASE 1
-### Fecha: 24/7/2018
+
+#### Fecha: 24/7/2018
 
 ### OBJETIVOS DE LA CLASE:
 * Modalidad de trabajo
