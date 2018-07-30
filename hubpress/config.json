@@ -5,6 +5,26 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://dwfs-bue-pal-2.github.io",
+    "hubpress": "https://dwfs-bue-pal-2.github.io",
+    "theme": "//dwfs-bue-pal-2.github.io/themes/casper",
+    "images": "https://dwfs-bue-pal-2.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
