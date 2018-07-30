@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Jul 2018 20:44:26 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 1]]></title><description><![CDATA[<div class="sect3">
-<h4 id="_fecha_24_7_2018">Fecha: 24/7/2018</h4>
-
-</div>
-<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Jul 2018 20:51:31 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 1]]></title><description><![CDATA[<div class="sect2">
 <h3 id="_objetivos_de_la_clase">OBJETIVOS DE LA CLASE:</h3>
 <div class="ulist">
 <ul>
@@ -50,16 +46,17 @@
 </div>
 <div class="sect5">
 <h6 id="_fotos_de_la_clase">FOTOS DE LA CLASE</h6>
-<div class="paragraph">
-<p>&lt;img src="http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto1.png" /&gt;</p>
-</div>
-<div class="paragraph">
-<p>&lt;img src="http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto2.png" /&gt;</p>
-</div>
-<div class="paragraph">
-<p>![test](<a href="https://github.com/favicon.ico" class="bare">https://github.com/favicon.ico</a>)</p>
+<div class="imageblock">
+<div class="content">
+<img src="http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto1.png" alt="foto1">
 </div>
 </div>
+<div class="imageblock">
+<div class="content">
+<img src="http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto2.png" alt="foto2">
 </div>
 </div>
-</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/07/30/CLASE-1.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/07/30/CLASE-1.html</guid><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate></item></channel></rss>
+</div>
+</div>
+</div>
+</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/07/30/CLASE-1.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/07/30/CLASE-1.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[LAN]]></category><category><![CDATA[WAN]]></category><category><![CDATA[Internet]]></category><category><![CDATA[Clase 1]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate></item></channel></rss>
