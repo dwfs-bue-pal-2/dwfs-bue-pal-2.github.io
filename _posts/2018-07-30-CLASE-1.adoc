@@ -28,3 +28,5 @@ Vamos a meternos de lleno con HTML y vamos a resolver dudas.
 <img src="http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto1.png" />
 
 <img src="http://github.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/images/clase1/foto2.png" />
+
+![test](https://github.com/favicon.ico)
