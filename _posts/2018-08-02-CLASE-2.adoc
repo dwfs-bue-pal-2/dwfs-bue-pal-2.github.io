@@ -5,26 +5,25 @@
 
 26/07/2018
 
-### OBJETIVOS DE LA CLASE:
-* Modalidad de trabajo
-* Introducción a la carrera
-* Empezar a conocernos
+###OBJETIVOS DE LA CLASE
 
-#### ACTIVIDADES:
-##### Modalidad de trabajo
-Vamos a trabajar a lo largo de 9 meses aprendiendo Desarrollo Web Full Stack. Nos vamos a manejar a lo largo de la cursada con tres lenguajes de la web: HTML, CSS y JAVA SCRIPT.  Van a aplicar todo lo aprendido en 10 proyectos que les van a permitir tener un producto propio como resultado de su proceso de aprendizaje. Los proyectos van a ser corregidos y recibirán un feedback de los mismos. Recuerden chequear los videos que estan subidos a la plataforma y que nos vamos a estar comunicando por Slack ante cualquier duda que tengan.
+#Seguir conociéndonos
+#Introducción a HTML
+#DIV
 
-##### Introducción a la carrera
-Nos comenzamos a preguntar ¿Qué es un programador?, ¿Qué es la internet?. Presentamos los tipos de redes con las que vamos a trabajar: LAN, WAN e INTERNET. Continuamos desarrollando como funciona la web. También hicimos un recorrido a través de un power point de la historia de la programación para ponernos en tema.
+###ACTIVIDADES 
+Ejercicio para seguir conociéndonos y descontracturarnos un poco: Comenzamos a caminar por el espacio, entre cruzamos miradas con los otros, y al momento de decir STOP, todos dejamos de caminar y nos pusimos a hablar con el compañero más próximo, de cómo fue nuestra rutina desde que nos levantamos hasta que llegamos a la clase. Finalmente hicimos una puesta en común de los nombres nuevamente. 
 
-##### Juego de presentación
-Nos colocamos en ronda, cada uno pusó en una bolsa un objeto personal a elección, sin que los demás lo puedan ver. Luego hicimos circular la bolsa con todos los objetos, y cada uno tuvo que sacar uno, sin mirar, y adivinar de qué compañero era. Cuando encontramos al dueño del objeto, nos acercamos y nos presentamos. De esta manera pudimos conocer los nombres de nuestros compañeros, de qué trabajan, por qué quieren comenzar la carrera y qué les gusta hacer en su tiempo libre.
+###Introducción a HTML: 
+¿Qué es HTML?, como dijo Max, básicamente es meter cosas dentro de cosas. Tenemos que tener en cuenta que para crear nuestro archivo HTML, hay tres etiquetas que TODO documento tiene que tener: HTML, HEAD (contenido de la página), BODY (lo que se va a ver en el navegador). Se organiza de h1 a h6. Por ejemplo h1 sería el título de un libro (harry potter), h2 el subtítulo (la piedra filosofal), y h3 el nombre del capítulo (capítulo 1). Luego de ver estos temas, pusimos las manos en la masa e investigamos sobre HTML. Hicimos un desafío, hacer una receta de cocina con HTML, si no sabes cocinar, no importa, inventas los ingredientes!!
 
-##### Cierre
-Nos introducimos de lleno en la web, y comenzamos a jugar un poco con HTML.
- 
-###### PARA LA PRÓXIMA
-Vamos a meternos de lleno con HTML y vamos a resolver dudas.
+¿Qué es el DIV? Es una caja para distribuir cosas, se usa junto con CSS para hacer más atractiva la página. Básicamente el DIV sirve para agrupar cosas, para poder moverlas y cambiarlas.
+
+###Cierre: Dudas de lo visto hasta ahora. 
+
+###PRÓXIMA CLASE: Vamos a hacer un juego sobre HTML, y a ver dudas del tema. Avanzaremos con CSS Y presentaremos el proyecto de CV online. 
+¡¡A recargar energías este fin de semana que se viene un martes recargado!!
+
 
 ###### FOTOS DE LA CLASE
 
