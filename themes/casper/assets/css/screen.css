@@ -166,7 +166,7 @@ body {
 }
 
 .site-logo {
-    max-height: 45px;
+    max-height: 150px;
 }
 
 .site-description {
@@ -244,7 +244,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .site-nav-logo img {
     display: block;
     width: auto;
-    height: 21px;
+    height: 40px;
 }
 
 .nav {
@@ -1008,7 +1008,7 @@ Usage (In Ghost editor):
     font-family: Georgia,serif;
     font-size: 3.2rem;
     line-height: 1.35em;
-    text-align: center;
+    /* text-align: center; */
 }
 @media (min-width: 1180px) {
     .post-full-content h5 {
