@@ -3,7 +3,7 @@
 :hp-image: https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto2.PNG
 :hp-tags: Acamica, LAN, WAN, Internet, Clase 1
 
-02/8/2018
+02/08/2018
 
 OBJETIVOS:
 
