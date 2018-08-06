@@ -1,7 +1,7 @@
 = CLASE 2
 :published_at: 2018-07-26
 :hp-image: https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto1.png
-:hp-tags: Acamica, LAN, WAN, Internet, Clase 1
+:hp-tags: Acamica, HTML, Clase 2
 
 26/7/2018
 
