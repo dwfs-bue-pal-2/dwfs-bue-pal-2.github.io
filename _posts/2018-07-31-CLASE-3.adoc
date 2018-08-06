@@ -1,30 +1,28 @@
 = CLASE 3
 :published_at: 2018-07-31
 :hp-image: https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase3/foto6.PNG
-:hp-tags: Acamica, LAN, WAN, Internet, Clase 1
+:hp-tags: Acamica, HTML, CSS, Clase 3
 
 31/7/2018
 
-OBJETIVOS
+### OBJETIVOS
+# Repaso de HTML. Juego ¿Who i am?
+# Presentación del primer TP. CV online
+# Introducción a CSS
 
--Repaso de HTML. Juego ¿Who i am?
--Presentación del primer TP. CV online
--Introducción a CSS
-
-ACTIVIDADES:
-
--Repaso de la clase anterior: Nos dividimos en grupos para jugar al ¿Who i am?. Luego repartimos tarjetas para cada grupo con códigos de HTML. El objetivo fue adivinar qué concepto se corresponde con el código que le tocó a cada integrante del grupo.
+### ACTIVIDADES
+Repaso de la clase anterior: Nos dividimos en grupos para jugar al ¿Who i am?. Luego repartimos tarjetas para cada grupo con códigos de HTML. El objetivo fue adivinar qué concepto se corresponde con el código que le tocó a cada integrante del grupo.
 De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un poco en el aprendizaje.
 
--Presentación del TP CV online: Vimos en power point un ejemplo de cómo les quedaría terminado el CV, el primer TP de la carrera. Recuerden que aproximadamente les debería llevar unas dos semanas terminarlo. No se olviden de ver los videos subidos a la plataforma para ayudarse, y de preguntar dudas por Slack y en las clases presenciales.
+Presentación del TP CV online: Vimos en power point un ejemplo de cómo les quedaría terminado el CV, el primer TP de la carrera. Recuerden que aproximadamente les debería llevar unas dos semanas terminarlo. No se olviden de ver los videos subidos a la plataforma para ayudarse, y de preguntar dudas por Slack y en las clases presenciales.
 
--Introducción a CSS: CSS es un lenguaje de programación. ¿Qué es CSS básicamente? CSS le da formato y estilo a HTML. Apunta a HTML. La sintaxis de CSS, se forma con el SELECTOR, el cual nos va a dirigir lo que queremos pintar, la PROPIEDAD, es decir, qué quiero cambiar, por ejemplo el color de un texto, y el VALOR, cómo lo puedo cambiar. 
+Introducción a CSS: CSS es un lenguaje de programación. ¿Qué es CSS básicamente? CSS le da formato y estilo a HTML. Apunta a HTML. La sintaxis de CSS, se forma con el SELECTOR, el cual nos va a dirigir lo que queremos pintar, la PROPIEDAD, es decir, qué quiero cambiar, por ejemplo el color de un texto, y el VALOR, cómo lo puedo cambiar. 
 
-PRÓXIMA CLASE: Consultas de la clase anterior. Vamos a comenzar a dar la segunda parte de CSS. 
+### PRÓXIMA CLASE
+Consultas de la clase anterior. Vamos a comenzar a dar la segunda parte de CSS. 
 
 DIVIRTIÉNDONOS Y APRENDIENDO HTML CON ¿WHO I AM?
 ¡¡Buscate en las fotos!!!
-
 
 ###### FOTOS DE LA CLASE
 
