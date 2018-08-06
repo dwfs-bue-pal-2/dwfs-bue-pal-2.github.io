@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Jul 2018 20:54:58 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 1]]></title><description><![CDATA[<div class="sect2">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Aug 2018 21:34:20 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 2]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>26/7/2018</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_objetivos_de_la_clase">OBJETIVOS DE LA CLASE</h3>
+
+</div>
+<h1 id="_seguir_conociéndonos" class="sect0">Seguir conociéndonos</h1>
+
+<h1 id="_introducción_a_html" class="sect0">Introducción a HTML</h1>
+
+<h1 id="_div" class="sect0">DIV</h1>
+
+<h1 id="_actividades" class="sect0">ACTIVIDADES</h1>
+<div class="paragraph">
+<p>Ejercicio para seguir conociéndonos y descontracturarnos un poco: Comenzamos a caminar por el espacio, entre cruzamos miradas con los otros, y al momento de decir STOP, todos dejamos de caminar y nos pusimos a hablar con el compañero más próximo, de cómo fue nuestra rutina desde que nos levantamos hasta que llegamos a la clase. Finalmente hicimos una puesta en común de los nombres nuevamente.</p>
+</div>
+<div class="paragraph">
+<p>Introducción a HTML: ¿Qué es HTML?, como dijo Max, básicamente es meter cosas dentro de cosas. Tenemos que tener en cuenta que para crear nuestro archivo HTML, hay tres etiquetas que TODO documento tiene que tener: HTML, HEAD (contenido de la página), BODY (lo que se va a ver en el navegador). Se organiza de h1 a h6. Por ejemplo h1 sería el título de un libro (harry potter), h2 el subtítulo (la piedra filosofal), y h3 el nombre del capítulo (capítulo 1). Luego de ver estos temas, pusimos las manos en la masa e investigamos sobre HTML. Hicimos un desafío, hacer una receta de cocina con HTML, si no sabes cocinar, no importa, inventas los ingredientes!!</p>
+</div>
+<div class="paragraph">
+<p>¿Qué es el DIV? Es una caja para distribuir cosas, se usa junto con CSS para hacer más atractiva la página. Básicamente el DIV sirve para agrupar cosas, para poder moverlas y cambiarlas.</p>
+</div>
+<div class="sect2">
+<h3 id="_cierre">Cierre</h3>
+<div class="paragraph">
+<p>Dudas de lo visto hasta ahora.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_próxima_clase">PRÓXIMA CLASE</h3>
+<div class="paragraph">
+<p>Vamos a hacer un juego sobre HTML, y a ver dudas del tema. Avanzaremos con CSS Y presentaremos el proyecto de CV online.
+¡¡A recargar energías este fin de semana que se viene un martes recargado!!</p>
+</div>
+<div class="paragraph">
+<p>SUPER CONCENTRADOS!!</p>
+</div>
+<div class="sect5">
+<h6 id="_fotos_de_la_clase">FOTOS DE LA CLASE</h6>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto1.PNG" alt="foto1">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto2.PNG" alt="foto2">
+</div>
+</div>
+</div>
+</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/07/26/CLASE-2.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/07/26/CLASE-2.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[LAN]]></category><category><![CDATA[WAN]]></category><category><![CDATA[Internet]]></category><category><![CDATA[Clase 1]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 1]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>24/7/2018</p>
+</div>
+</div>
+</div>
+<div class="sect2">
 <h3 id="_objetivos_de_la_clase">OBJETIVOS DE LA CLASE:</h3>
 <div class="ulist">
 <ul>
@@ -59,4 +121,4 @@
 </div>
 </div>
 </div>
-</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/07/30/CLASE-1.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/07/30/CLASE-1.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[LAN]]></category><category><![CDATA[WAN]]></category><category><![CDATA[Internet]]></category><category><![CDATA[Clase 1]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Mon, 30 Jul 2018 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/07/24/CLASE-1.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/07/24/CLASE-1.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[LAN]]></category><category><![CDATA[WAN]]></category><category><![CDATA[Internet]]></category><category><![CDATA[Clase 1]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Tue, 24 Jul 2018 00:00:00 GMT</pubDate></item></channel></rss>

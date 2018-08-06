@@ -1,0 +1,34 @@
+= CLASE 1
+:published_at: 2018-07-24
+:hp-image: https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto2.PNG
+:hp-tags: Acamica, LAN, WAN, Internet, Clase 1
+
+24/7/2018
+
+### OBJETIVOS DE LA CLASE:
+* Modalidad de trabajo
+* Introducción a la carrera
+* Empezar a conocernos
+
+#### ACTIVIDADES:
+##### Modalidad de trabajo
+Vamos a trabajar a lo largo de 9 meses aprendiendo Desarrollo Web Full Stack. Nos vamos a manejar a lo largo de la cursada con tres lenguajes de la web: HTML, CSS y JAVA SCRIPT.  Van a aplicar todo lo aprendido en 10 proyectos que les van a permitir tener un producto propio como resultado de su proceso de aprendizaje. Los proyectos van a ser corregidos y recibirán un feedback de los mismos. Recuerden chequear los videos que estan subidos a la plataforma y que nos vamos a estar comunicando por Slack ante cualquier duda que tengan.
+
+##### Introducción a la carrera
+Nos comenzamos a preguntar ¿Qué es un programador?, ¿Qué es la internet?. Presentamos los tipos de redes con las que vamos a trabajar: LAN, WAN e INTERNET. Continuamos desarrollando como funciona la web. También hicimos un recorrido a través de un power point de la historia de la programación para ponernos en tema.
+
+##### Juego de presentación
+Nos colocamos en ronda, cada uno pusó en una bolsa un objeto personal a elección, sin que los demás lo puedan ver. Luego hicimos circular la bolsa con todos los objetos, y cada uno tuvo que sacar uno, sin mirar, y adivinar de qué compañero era. Cuando encontramos al dueño del objeto, nos acercamos y nos presentamos. De esta manera pudimos conocer los nombres de nuestros compañeros, de qué trabajan, por qué quieren comenzar la carrera y qué les gusta hacer en su tiempo libre.
+
+##### Cierre
+Nos introducimos de lleno en la web, y comenzamos a jugar un poco con HTML.
+ 
+###### PARA LA PRÓXIMA
+Vamos a meternos de lleno con HTML y vamos a resolver dudas.
+
+###### FOTOS DE LA CLASE
+
+image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto1.PNG[]
+
+image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto2.PNG[]
+
