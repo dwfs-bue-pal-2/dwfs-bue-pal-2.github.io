@@ -1,6 +1,6 @@
 = CLASE 3
 :published_at: 2018-07-31
-:hp-image: https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto2.PNG
+:hp-image: https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase3/foto6.PNG
 :hp-tags: Acamica, LAN, WAN, Internet, Clase 1
 
 31/7/2018
