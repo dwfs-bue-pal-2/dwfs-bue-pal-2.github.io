@@ -1,0 +1,37 @@
+body {
+  background-color: gainsboro;
+}
+
+#header {
+  min-height: 100px;
+}
+
+#footer {
+  min-height: 100px;
+}
+
+div {
+  border: 0.5px solid black;
+}
+
+#content {
+  min-height: 1000px;
+}
+
+#content div {
+  background-color: aqua;
+  float: left;
+  min-height: 600px;
+}
+
+#left-content {
+  min-width: 20%;
+}
+
+#center-content {
+  min-width: 59%;
+}
+
+#right-content {
+  min-width: 20%;
+}

@@ -1,0 +1,16 @@
+
+body {
+  background-color: aqua;
+}
+
+#texto1, #texto2 {
+  color: white;
+}
+
+.text {
+  background-color: #A331CD;
+}
+
+.greenText {
+  font-size: 32px;
+}
