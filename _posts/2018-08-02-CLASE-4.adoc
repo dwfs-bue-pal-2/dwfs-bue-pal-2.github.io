@@ -1,6 +1,6 @@
 = CLASE 4
 :published_at: 2018-08-02
-:hp-image: https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase4/foto2.PNG
+:hp-image: https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase4/foto8.PNG
 :hp-tags: Acamica, LAN, WAN, Internet, Clase 1
 
 02/08/2018
