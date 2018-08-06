@@ -1,54 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Aug 2018 21:14:11 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 2]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Aug 2018 21:16:15 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 2]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>26/07/2018</p>
 </div>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_objetivos_de_la_clase">OBJETIVOS DE LA CLASE:</h3>
-<div class="ulist">
-<ul>
-<li>
-<p>Modalidad de trabajo</p>
-</li>
-<li>
-<p>Introducción a la carrera</p>
-</li>
-<li>
-<p>Empezar a conocernos</p>
-</li>
-</ul>
-</div>
-<div class="sect3">
-<h4 id="_actividades">ACTIVIDADES:</h4>
-<div class="sect4">
-<h5 id="_modalidad_de_trabajo">Modalidad de trabajo</h5>
 <div class="paragraph">
-<p>Vamos a trabajar a lo largo de 9 meses aprendiendo Desarrollo Web Full Stack. Nos vamos a manejar a lo largo de la cursada con tres lenguajes de la web: HTML, CSS y JAVA SCRIPT.  Van a aplicar todo lo aprendido en 10 proyectos que les van a permitir tener un producto propio como resultado de su proceso de aprendizaje. Los proyectos van a ser corregidos y recibirán un feedback de los mismos. Recuerden chequear los videos que estan subidos a la plataforma y que nos vamos a estar comunicando por Slack ante cualquier duda que tengan.</p>
+<p>###OBJETIVOS DE LA CLASE</p>
 </div>
-</div>
-<div class="sect4">
-<h5 id="_introducción_a_la_carrera">Introducción a la carrera</h5>
 <div class="paragraph">
-<p>Nos comenzamos a preguntar ¿Qué es un programador?, ¿Qué es la internet?. Presentamos los tipos de redes con las que vamos a trabajar: LAN, WAN e INTERNET. Continuamos desarrollando como funciona la web. También hicimos un recorrido a través de un power point de la historia de la programación para ponernos en tema.</p>
+<p>#Seguir conociéndonos
+#Introducción a HTML
+#DIV</p>
 </div>
-</div>
-<div class="sect4">
-<h5 id="_juego_de_presentación">Juego de presentación</h5>
 <div class="paragraph">
-<p>Nos colocamos en ronda, cada uno pusó en una bolsa un objeto personal a elección, sin que los demás lo puedan ver. Luego hicimos circular la bolsa con todos los objetos, y cada uno tuvo que sacar uno, sin mirar, y adivinar de qué compañero era. Cuando encontramos al dueño del objeto, nos acercamos y nos presentamos. De esta manera pudimos conocer los nombres de nuestros compañeros, de qué trabajan, por qué quieren comenzar la carrera y qué les gusta hacer en su tiempo libre.</p>
+<p>###ACTIVIDADES
+Ejercicio para seguir conociéndonos y descontracturarnos un poco: Comenzamos a caminar por el espacio, entre cruzamos miradas con los otros, y al momento de decir STOP, todos dejamos de caminar y nos pusimos a hablar con el compañero más próximo, de cómo fue nuestra rutina desde que nos levantamos hasta que llegamos a la clase. Finalmente hicimos una puesta en común de los nombres nuevamente.</p>
 </div>
-</div>
-<div class="sect4">
-<h5 id="_cierre">Cierre</h5>
 <div class="paragraph">
-<p>Nos introducimos de lleno en la web, y comenzamos a jugar un poco con HTML.</p>
+<p>###Introducción a HTML:
+¿Qué es HTML?, como dijo Max, básicamente es meter cosas dentro de cosas. Tenemos que tener en cuenta que para crear nuestro archivo HTML, hay tres etiquetas que TODO documento tiene que tener: HTML, HEAD (contenido de la página), BODY (lo que se va a ver en el navegador). Se organiza de h1 a h6. Por ejemplo h1 sería el título de un libro (harry potter), h2 el subtítulo (la piedra filosofal), y h3 el nombre del capítulo (capítulo 1). Luego de ver estos temas, pusimos las manos en la masa e investigamos sobre HTML. Hicimos un desafío, hacer una receta de cocina con HTML, si no sabes cocinar, no importa, inventas los ingredientes!!</p>
 </div>
-<div class="sect5">
-<h6 id="_para_la_próxima">PARA LA PRÓXIMA</h6>
 <div class="paragraph">
-<p>Vamos a meternos de lleno con HTML y vamos a resolver dudas.</p>
+<p>¿Qué es el DIV? Es una caja para distribuir cosas, se usa junto con CSS para hacer más atractiva la página. Básicamente el DIV sirve para agrupar cosas, para poder moverlas y cambiarlas.</p>
+</div>
+<div class="paragraph">
+<p>###Cierre: Dudas de lo visto hasta ahora.</p>
+</div>
+<div class="paragraph">
+<p>###PRÓXIMA CLASE: Vamos a hacer un juego sobre HTML, y a ver dudas del tema. Avanzaremos con CSS Y presentaremos el proyecto de CV online.
+¡¡A recargar energías este fin de semana que se viene un martes recargado!!</p>
+</div>
 </div>
 </div>
 <div class="sect5">
@@ -61,9 +41,6 @@
 <div class="imageblock">
 <div class="content">
 <img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto2.PNG" alt="foto2">
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/08/02/CLASE-2.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/08/02/CLASE-2.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[HTML]]></category><category><![CDATA[Clase 2]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 1]]></title><description><![CDATA[<div id="preamble">
