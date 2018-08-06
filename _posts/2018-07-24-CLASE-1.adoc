@@ -3,6 +3,7 @@
 :hp-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReeStWIUJdXxZN-qTjIhMjGnc6EV_ov_pzBo3St31UbW2jre7qoA
 :hp-tags: Acamica, LAN, WAN, Internet, Clase 1
 
+24/7/2018
 
 ### OBJETIVOS DE LA CLASE:
 * Modalidad de trabajo
