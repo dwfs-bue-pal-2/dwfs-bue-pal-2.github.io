@@ -29,6 +29,6 @@ SUPER CONCENTRADOS!!
 
 ###### FOTOS DE LA CLASE
 
-image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto1.PNG[]
+image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto1.PNG[]
 
-image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto2.PNG[]
+image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto2.PNG[]
