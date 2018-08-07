@@ -29,12 +29,11 @@ QUEMANDO EL BOCHO CON LAS DEFINICIONES DE HTML Y CSS
 
 ###### MATERIAL DE CLASE
 
-
-IMAGEN A MAQUETAR
+###### IMAGEN A MQUETAR
 
 https://drive.google.com/open?id=1iYui0EB7gm8-dfC68Ydfb3MTaE5IPFvT
 
-ARCHIVO IMAGENES
+###### ARCHIVO IMAGENES
 
 https://drive.google.com/open?id=1ZMUnSyQ61Io5tc93kULdrjAZlW1u6fCv
 
