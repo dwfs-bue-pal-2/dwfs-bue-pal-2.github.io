@@ -27,6 +27,10 @@ Seguiremos afianzando HTML y CSS. ¡¡Vengan con dudas!!
 
 QUEMANDO EL BOCHO CON LAS DEFINICIONES DE HTML Y CSS
 
+###### MATERIAL DE CLASE
+///AGREGAR MATERIAL
+
+
 ###### FOTOS DE LA CLASE
 
 image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase4/foto1.PNG[]
