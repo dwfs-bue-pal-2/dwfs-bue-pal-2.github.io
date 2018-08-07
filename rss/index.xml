@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 07 Aug 2018 11:39:23 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 4]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 07 Aug 2018 11:42:58 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 4]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>02/08/2018</p>
@@ -181,23 +181,34 @@ De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un p
 </div>
 <div class="sect2">
 <h3 id="_objetivos_de_la_clase">OBJETIVOS DE LA CLASE</h3>
-
+<div class="ulist">
+<ul>
+<li>
+<p>Seguir conociéndonos</p>
+</li>
+<li>
+<p>Introducción a HTML</p>
+</li>
+<li>
+<p>DIV</p>
+</li>
+</ul>
 </div>
-<h1 id="_seguir_conociéndonos" class="sect0">Seguir conociéndonos</h1>
-
-<h1 id="_introducción_a_html" class="sect0">Introducción a HTML</h1>
-
-<h1 id="_div" class="sect0">DIV</h1>
-
-<h1 id="_actividades" class="sect0">ACTIVIDADES</h1>
+</div>
+<div class="sect2">
+<h3 id="_actividades">ACTIVIDADES</h3>
 <div class="paragraph">
 <p>Ejercicio para seguir conociéndonos y descontracturarnos un poco: Comenzamos a caminar por el espacio, entre cruzamos miradas con los otros, y al momento de decir STOP, todos dejamos de caminar y nos pusimos a hablar con el compañero más próximo, de cómo fue nuestra rutina desde que nos levantamos hasta que llegamos a la clase. Finalmente hicimos una puesta en común de los nombres nuevamente.</p>
 </div>
+<div class="sect3">
+<h4 id="_introducción_a_html">Introducción a HTML</h4>
 <div class="paragraph">
-<p>Introducción a HTML: ¿Qué es HTML?, como dijo Max, básicamente es meter cosas dentro de cosas. Tenemos que tener en cuenta que para crear nuestro archivo HTML, hay tres etiquetas que TODO documento tiene que tener: HTML, HEAD (contenido de la página), BODY (lo que se va a ver en el navegador). Se organiza de h1 a h6. Por ejemplo h1 sería el título de un libro (harry potter), h2 el subtítulo (la piedra filosofal), y h3 el nombre del capítulo (capítulo 1). Luego de ver estos temas, pusimos las manos en la masa e investigamos sobre HTML. Hicimos un desafío, hacer una receta de cocina con HTML, si no sabes cocinar, no importa, inventas los ingredientes!!</p>
+<p>¿Qué es HTML?, como dijo Max, básicamente es meter cosas dentro de cosas. Tenemos que tener en cuenta que para crear nuestro archivo HTML, hay tres etiquetas que TODO documento tiene que tener: HTML, HEAD (contenido de la página), BODY (lo que se va a ver en el navegador). Se organiza de h1 a h6. Por ejemplo h1 sería el título de un libro (harry potter), h2 el subtítulo (la piedra filosofal), y h3 el nombre del capítulo (capítulo 1). Luego de ver estos temas, pusimos las manos en la masa e investigamos sobre HTML. Hicimos un desafío, hacer una receta de cocina con HTML, si no sabes cocinar, no importa, inventas los ingredientes!!</p>
 </div>
 <div class="paragraph">
 <p>¿Qué es el DIV? Es una caja para distribuir cosas, se usa junto con CSS para hacer más atractiva la página. Básicamente el DIV sirve para agrupar cosas, para poder moverlas y cambiarlas.</p>
+</div>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_cierre">Cierre</h3>
