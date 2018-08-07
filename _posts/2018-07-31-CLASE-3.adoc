@@ -27,6 +27,9 @@ Consultas de la clase anterior. Vamos a comenzar a dar la segunda parte de CSS.
 DIVIRTIÉNDONOS Y APRENDIENDO HTML CON ¿WHO I AM?
 ¡¡Buscate en las fotos!!!
 
+
+https://drive.google.com/open?id=18agdX-SQZarN8Ym0Sd0OQrP3wWln-KxR
+
 ###### FOTOS DE LA CLASE
 
 image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase3/foto1.PNG[]
