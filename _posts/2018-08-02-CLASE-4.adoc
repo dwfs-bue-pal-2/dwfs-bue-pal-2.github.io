@@ -27,7 +27,7 @@ Seguiremos afianzando HTML y CSS. ¡¡Vengan con dudas!!
 
 QUEMANDO EL BOCHO CON LAS DEFINICIONES DE HTML Y CSS
 
-###### MATERIAL DE CLASE
+##### MATERIAL DE CLASE
 
 ###### IMAGEN A MQUETAR
 
