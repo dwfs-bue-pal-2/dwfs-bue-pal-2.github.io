@@ -25,8 +25,10 @@ Dudas de lo visto hasta ahora.
 Vamos a hacer un juego sobre HTML, y a ver dudas del tema. Avanzaremos con CSS Y presentaremos el proyecto de CV online. 
 ¡¡A recargar energías este fin de semana que se viene un martes recargado!!
 
-
 SUPER CONCENTRADOS!!
+
+###### MATERIAL DE CLASE
+https://drive.google.com/open?id=1L-1X8A9xsNrRDJJed6AVC78NDlf1PDy4
 
 ###### FOTOS DE LA CLASE
 
