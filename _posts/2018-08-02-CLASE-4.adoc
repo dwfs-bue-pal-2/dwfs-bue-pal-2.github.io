@@ -1,29 +1,27 @@
 = CLASE 4
 :published_at: 2018-08-02
 :hp-image: https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase4/foto8.PNG
-:hp-tags: Acamica, LAN, WAN, Internet, Clase 1
+:hp-tags: Acamica, HTML, CSS, Clase 4
 
 02/08/2018
 
-OBJETIVOS:
+### OBJETIVOS
+# Ver objetivos individuales para la cursada y conocimientos previos
+# CSS, segunda parte. Modelo de caja, posicionamiento
+# Juego para afianzar conocimientos de HTML y CSS
+# Cierre. Maquetado de una página 
 
--Ver objetivos individuales para la cursada y conocimientos previos
--CSS, segunda parte. Modelo de caja, posicionamiento
--Juego para afianzar conocimientos de HTML y CSS
--Cierre. Maquetado de una página 
+### ACTIVIDADES
+En los primeros minutos de la clase, cada alumno completó una planilla con sus objetivos para la cursada, y sus conocimientos previos sobre programación, en caso de tenerlos. Esto nos sirve para poder organizarnos más en el aprendizaje.
 
+CSS. Modelo de caja, posicionamiento: Arrancamos viendo el uso de la propiedad box-shadow para poder darle un borde a todos los elementos y poder entender el espacio que ocupan en nuestra página. Cada vez que tengamos que trabajar con columnas visualmente, vamos a tener que tener un elemento padre con el cual vamos a trabajar. Vimos como trabajar con la propiedad float. Cuando estamos trabajando con el modelo de cajas, tenemos que saber que todos los elementos ocupan un alto y un ancho en nuestra página. Cuando asignamos el ancho y el alto a un elemento, este está compuesto por tres cosas: el ancho (width), el padding y el borde. Cuando nosotros asignamos la propiedad width o height, las propiedades padding y border hacen que el ancho y/o alto del elemento, sea más grande. Para solucionar este problema existe una propiedad llamada box-sizing a la cual podemos asignarle como valor border-box. Esta propiedad asignada de esta forma hace que el valor que le asignemos a nuestro width o height sea el que ocupa en la página, y el navegador se encargue de calcular el borde y el padding sin afectar el tamaño que hayamos asignado.
 
-ACTIVIDADES:
+Juego para afianzar conceptos vistos hasta el momento: Nos dividimos en parejas. Cada pareja recibe el nombre de varias etiquetas HTML  y conceptos de CSS y, por tiempo, tienen que escribir las definiciones. Las demás parejas tendrían que adivinar a qué conceptos corresponde cada definición. Gana el equipo al que más definiciones le adivinan. Socializamos las definiciones y los conceptos y corregimos y ajustamos conceptos entre todos.
 
--En los primeros minutos de la clase, cada alumno completó una planilla con sus objetivos para la cursada, y sus conocimientos previos sobre programación, en caso de tenerlos. Esto nos sirve para poder organizarnos más en el aprendizaje.
+Antes de finalizar la clase, los desafiamos a maquetar twitter. ¡Manos a la obra!
 
--CSS. Modelo de caja, posicionamiento: Arrancamos viendo el uso de la propiedad box-shadow para poder darle un borde a todos los elementos y poder entender el espacio que ocupan en nuestra página. Cada vez que tengamos que trabajar con columnas visualmente, vamos a tener que tener un elemento padre con el cual vamos a trabajar. Vimos como trabajar con la propiedad float. Cuando estamos trabajando con el modelo de cajas, tenemos que saber que todos los elementos ocupan un alto y un ancho en nuestra página. Cuando asignamos el ancho y el alto a un elemento, este está compuesto por tres cosas: el ancho (width), el padding y el borde. Cuando nosotros asignamos la propiedad width o height, las propiedades padding y border hacen que el ancho y/o alto del elemento, sea más grande. Para solucionar este problema existe una propiedad llamada box-sizing a la cual podemos asignarle como valor border-box. Esta propiedad asignada de esta forma hace que el valor que le asignemos a nuestro width o height sea el que ocupa en la página, y el navegador se encargue de calcular el borde y el padding sin afectar el tamaño que hayamos asignado.
-
--Juego para afianzar conceptos vistos hasta el momento: Nos dividimos en parejas. Cada pareja recibe el nombre de varias etiquetas HTML  y conceptos de CSS y, por tiempo, tienen que escribir las definiciones. Las demás parejas tendrían que adivinar a qué conceptos corresponde cada definición. Gana el equipo al que más definiciones le adivinan. Socializamos las definiciones y los conceptos y corregimos y ajustamos conceptos entre todos.
-
--Antes de finalizar la clase, los desafiamos a maquetar twitter. ¡Manos a la obra!
-
-PRÓXIMA CLASE: Seguiremos afianzando HTML y CSS. ¡¡Vengan con dudas!!
+### PRÓXIMA CLASE
+Seguiremos afianzando HTML y CSS. ¡¡Vengan con dudas!!
 
 QUEMANDO EL BOCHO CON LAS DEFINICIONES DE HTML Y CSS
 

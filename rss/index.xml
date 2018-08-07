@@ -1,39 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Aug 2018 21:55:31 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 4]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Aug 2018 22:06:04 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 4]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>02/08/2018</p>
 </div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_objetivos">OBJETIVOS</h3>
+
+</div>
+<h1 id="_ver_objetivos_individuales_para_la_cursada_y_conocimientos_previos" class="sect0">Ver objetivos individuales para la cursada y conocimientos previos</h1>
+
+<h1 id="_css_segunda_parte_modelo_de_caja_posicionamiento" class="sect0">CSS, segunda parte. Modelo de caja, posicionamiento</h1>
+
+<h1 id="_juego_para_afianzar_conocimientos_de_html_y_css" class="sect0">Juego para afianzar conocimientos de HTML y CSS</h1>
+
+<h1 id="_cierre_maquetado_de_una_página" class="sect0">Cierre. Maquetado de una página</h1>
+<div class="sect2">
+<h3 id="_actividades">ACTIVIDADES</h3>
 <div class="paragraph">
-<p>OBJETIVOS:</p>
+<p>En los primeros minutos de la clase, cada alumno completó una planilla con sus objetivos para la cursada, y sus conocimientos previos sobre programación, en caso de tenerlos. Esto nos sirve para poder organizarnos más en el aprendizaje.</p>
 </div>
 <div class="paragraph">
-<p>-Ver objetivos individuales para la cursada y conocimientos previos
--CSS, segunda parte. Modelo de caja, posicionamiento
--Juego para afianzar conocimientos de HTML y CSS
--Cierre. Maquetado de una página</p>
+<p>CSS. Modelo de caja, posicionamiento: Arrancamos viendo el uso de la propiedad box-shadow para poder darle un borde a todos los elementos y poder entender el espacio que ocupan en nuestra página. Cada vez que tengamos que trabajar con columnas visualmente, vamos a tener que tener un elemento padre con el cual vamos a trabajar. Vimos como trabajar con la propiedad float. Cuando estamos trabajando con el modelo de cajas, tenemos que saber que todos los elementos ocupan un alto y un ancho en nuestra página. Cuando asignamos el ancho y el alto a un elemento, este está compuesto por tres cosas: el ancho (width), el padding y el borde. Cuando nosotros asignamos la propiedad width o height, las propiedades padding y border hacen que el ancho y/o alto del elemento, sea más grande. Para solucionar este problema existe una propiedad llamada box-sizing a la cual podemos asignarle como valor border-box. Esta propiedad asignada de esta forma hace que el valor que le asignemos a nuestro width o height sea el que ocupa en la página, y el navegador se encargue de calcular el borde y el padding sin afectar el tamaño que hayamos asignado.</p>
 </div>
 <div class="paragraph">
-<p>ACTIVIDADES:</p>
+<p>Juego para afianzar conceptos vistos hasta el momento: Nos dividimos en parejas. Cada pareja recibe el nombre de varias etiquetas HTML  y conceptos de CSS y, por tiempo, tienen que escribir las definiciones. Las demás parejas tendrían que adivinar a qué conceptos corresponde cada definición. Gana el equipo al que más definiciones le adivinan. Socializamos las definiciones y los conceptos y corregimos y ajustamos conceptos entre todos.</p>
 </div>
 <div class="paragraph">
-<p>-En los primeros minutos de la clase, cada alumno completó una planilla con sus objetivos para la cursada, y sus conocimientos previos sobre programación, en caso de tenerlos. Esto nos sirve para poder organizarnos más en el aprendizaje.</p>
+<p>Antes de finalizar la clase, los desafiamos a maquetar twitter. ¡Manos a la obra!</p>
 </div>
-<div class="paragraph">
-<p>-CSS. Modelo de caja, posicionamiento: Arrancamos viendo el uso de la propiedad box-shadow para poder darle un borde a todos los elementos y poder entender el espacio que ocupan en nuestra página. Cada vez que tengamos que trabajar con columnas visualmente, vamos a tener que tener un elemento padre con el cual vamos a trabajar. Vimos como trabajar con la propiedad float. Cuando estamos trabajando con el modelo de cajas, tenemos que saber que todos los elementos ocupan un alto y un ancho en nuestra página. Cuando asignamos el ancho y el alto a un elemento, este está compuesto por tres cosas: el ancho (width), el padding y el borde. Cuando nosotros asignamos la propiedad width o height, las propiedades padding y border hacen que el ancho y/o alto del elemento, sea más grande. Para solucionar este problema existe una propiedad llamada box-sizing a la cual podemos asignarle como valor border-box. Esta propiedad asignada de esta forma hace que el valor que le asignemos a nuestro width o height sea el que ocupa en la página, y el navegador se encargue de calcular el borde y el padding sin afectar el tamaño que hayamos asignado.</p>
 </div>
+<div class="sect2">
+<h3 id="_próxima_clase">PRÓXIMA CLASE</h3>
 <div class="paragraph">
-<p>-Juego para afianzar conceptos vistos hasta el momento: Nos dividimos en parejas. Cada pareja recibe el nombre de varias etiquetas HTML  y conceptos de CSS y, por tiempo, tienen que escribir las definiciones. Las demás parejas tendrían que adivinar a qué conceptos corresponde cada definición. Gana el equipo al que más definiciones le adivinan. Socializamos las definiciones y los conceptos y corregimos y ajustamos conceptos entre todos.</p>
-</div>
-<div class="paragraph">
-<p>-Antes de finalizar la clase, los desafiamos a maquetar twitter. ¡Manos a la obra!</p>
-</div>
-<div class="paragraph">
-<p>PRÓXIMA CLASE: Seguiremos afianzando HTML y CSS. ¡¡Vengan con dudas!!</p>
+<p>Seguiremos afianzando HTML y CSS. ¡¡Vengan con dudas!!</p>
 </div>
 <div class="paragraph">
 <p>QUEMANDO EL BOCHO CON LAS DEFINICIONES DE HTML Y CSS</p>
-</div>
-</div>
 </div>
 <div class="sect5">
 <h6 id="_fotos_de_la_clase">FOTOS DE LA CLASE</h6>
@@ -82,40 +86,44 @@
 <img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase4/foto9.PNG" alt="foto9">
 </div>
 </div>
-</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/08/02/CLASE-4.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/08/02/CLASE-4.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[LAN]]></category><category><![CDATA[WAN]]></category><category><![CDATA[Internet]]></category><category><![CDATA[Clase 1]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 3]]></title><description><![CDATA[<div id="preamble">
+</div>
+</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/08/02/CLASE-4.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/08/02/CLASE-4.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[HTML]]></category><category><![CDATA[CSS]]></category><category><![CDATA[Clase 4]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 3]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>31/7/2018</p>
 </div>
-<div class="paragraph">
-<p>OBJETIVOS</p>
 </div>
-<div class="paragraph">
-<p>-Repaso de HTML. Juego ¿Who i am?
--Presentación del primer TP. CV online
--Introducción a CSS</p>
 </div>
-<div class="paragraph">
-<p>ACTIVIDADES:</p>
+<div class="sect2">
+<h3 id="_objetivos">OBJETIVOS</h3>
+
 </div>
+<h1 id="_repaso_de_html_juego_who_i_am" class="sect0">Repaso de HTML. Juego ¿Who i am?</h1>
+
+<h1 id="_presentación_del_primer_tp_cv_online" class="sect0">Presentación del primer TP. CV online</h1>
+
+<h1 id="_introducción_a_css" class="sect0">Introducción a CSS</h1>
+<div class="sect2">
+<h3 id="_actividades">ACTIVIDADES</h3>
 <div class="paragraph">
-<p>-Repaso de la clase anterior: Nos dividimos en grupos para jugar al ¿Who i am?. Luego repartimos tarjetas para cada grupo con códigos de HTML. El objetivo fue adivinar qué concepto se corresponde con el código que le tocó a cada integrante del grupo.
+<p>Repaso de la clase anterior: Nos dividimos en grupos para jugar al ¿Who i am?. Luego repartimos tarjetas para cada grupo con códigos de HTML. El objetivo fue adivinar qué concepto se corresponde con el código que le tocó a cada integrante del grupo.
 De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un poco en el aprendizaje.</p>
 </div>
 <div class="paragraph">
-<p>-Presentación del TP CV online: Vimos en power point un ejemplo de cómo les quedaría terminado el CV, el primer TP de la carrera. Recuerden que aproximadamente les debería llevar unas dos semanas terminarlo. No se olviden de ver los videos subidos a la plataforma para ayudarse, y de preguntar dudas por Slack y en las clases presenciales.</p>
+<p>Presentación del TP CV online: Vimos en power point un ejemplo de cómo les quedaría terminado el CV, el primer TP de la carrera. Recuerden que aproximadamente les debería llevar unas dos semanas terminarlo. No se olviden de ver los videos subidos a la plataforma para ayudarse, y de preguntar dudas por Slack y en las clases presenciales.</p>
 </div>
 <div class="paragraph">
-<p>-Introducción a CSS: CSS es un lenguaje de programación. ¿Qué es CSS básicamente? CSS le da formato y estilo a HTML. Apunta a HTML. La sintaxis de CSS, se forma con el SELECTOR, el cual nos va a dirigir lo que queremos pintar, la PROPIEDAD, es decir, qué quiero cambiar, por ejemplo el color de un texto, y el VALOR, cómo lo puedo cambiar.</p>
+<p>Introducción a CSS: CSS es un lenguaje de programación. ¿Qué es CSS básicamente? CSS le da formato y estilo a HTML. Apunta a HTML. La sintaxis de CSS, se forma con el SELECTOR, el cual nos va a dirigir lo que queremos pintar, la PROPIEDAD, es decir, qué quiero cambiar, por ejemplo el color de un texto, y el VALOR, cómo lo puedo cambiar.</p>
 </div>
+</div>
+<div class="sect2">
+<h3 id="_próxima_clase">PRÓXIMA CLASE</h3>
 <div class="paragraph">
-<p>PRÓXIMA CLASE: Consultas de la clase anterior. Vamos a comenzar a dar la segunda parte de CSS.</p>
+<p>Consultas de la clase anterior. Vamos a comenzar a dar la segunda parte de CSS.</p>
 </div>
 <div class="paragraph">
 <p>DIVIRTIÉNDONOS Y APRENDIENDO HTML CON ¿WHO I AM?
 ¡¡Buscate en las fotos!!!</p>
-</div>
-</div>
 </div>
 <div class="sect5">
 <h6 id="_fotos_de_la_clase">FOTOS DE LA CLASE</h6>
@@ -149,7 +157,8 @@ De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un p
 <img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase3/foto6.PNG" alt="foto6">
 </div>
 </div>
-</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/07/31/CLASE-3.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/07/31/CLASE-3.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[LAN]]></category><category><![CDATA[WAN]]></category><category><![CDATA[Internet]]></category><category><![CDATA[Clase 1]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Tue, 31 Jul 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 2]]></title><description><![CDATA[<div id="preamble">
+</div>
+</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/07/31/CLASE-3.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/07/31/CLASE-3.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[HTML]]></category><category><![CDATA[CSS]]></category><category><![CDATA[Clase 3]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Tue, 31 Jul 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 2]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>26/7/2018</p>
@@ -204,7 +213,7 @@ De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un p
 </div>
 </div>
 </div>
-</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/07/26/CLASE-2.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/07/26/CLASE-2.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[LAN]]></category><category><![CDATA[WAN]]></category><category><![CDATA[Internet]]></category><category><![CDATA[Clase 1]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 1]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/07/26/CLASE-2.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/07/26/CLASE-2.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[HTML]]></category><category><![CDATA[Clase 2]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Thu, 26 Jul 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 1]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>24/7/2018</p>
