@@ -6,14 +6,15 @@
 26/7/2018
 
 ### OBJETIVOS DE LA CLASE
-# Seguir conociéndonos
-# Introducción a HTML
-# DIV
+* Seguir conociéndonos
+* Introducción a HTML
+* DIV
 
-# ACTIVIDADES 
+### ACTIVIDADES 
 Ejercicio para seguir conociéndonos y descontracturarnos un poco: Comenzamos a caminar por el espacio, entre cruzamos miradas con los otros, y al momento de decir STOP, todos dejamos de caminar y nos pusimos a hablar con el compañero más próximo, de cómo fue nuestra rutina desde que nos levantamos hasta que llegamos a la clase. Finalmente hicimos una puesta en común de los nombres nuevamente. 
 
-Introducción a HTML: ¿Qué es HTML?, como dijo Max, básicamente es meter cosas dentro de cosas. Tenemos que tener en cuenta que para crear nuestro archivo HTML, hay tres etiquetas que TODO documento tiene que tener: HTML, HEAD (contenido de la página), BODY (lo que se va a ver en el navegador). Se organiza de h1 a h6. Por ejemplo h1 sería el título de un libro (harry potter), h2 el subtítulo (la piedra filosofal), y h3 el nombre del capítulo (capítulo 1). Luego de ver estos temas, pusimos las manos en la masa e investigamos sobre HTML. Hicimos un desafío, hacer una receta de cocina con HTML, si no sabes cocinar, no importa, inventas los ingredientes!!
+#### Introducción a HTML
+¿Qué es HTML?, como dijo Max, básicamente es meter cosas dentro de cosas. Tenemos que tener en cuenta que para crear nuestro archivo HTML, hay tres etiquetas que TODO documento tiene que tener: HTML, HEAD (contenido de la página), BODY (lo que se va a ver en el navegador). Se organiza de h1 a h6. Por ejemplo h1 sería el título de un libro (harry potter), h2 el subtítulo (la piedra filosofal), y h3 el nombre del capítulo (capítulo 1). Luego de ver estos temas, pusimos las manos en la masa e investigamos sobre HTML. Hicimos un desafío, hacer una receta de cocina con HTML, si no sabes cocinar, no importa, inventas los ingredientes!!
 
 ¿Qué es el DIV? Es una caja para distribuir cosas, se usa junto con CSS para hacer más atractiva la página. Básicamente el DIV sirve para agrupar cosas, para poder moverlas y cambiarlas.
 
@@ -24,11 +25,13 @@ Dudas de lo visto hasta ahora.
 Vamos a hacer un juego sobre HTML, y a ver dudas del tema. Avanzaremos con CSS Y presentaremos el proyecto de CV online. 
 ¡¡A recargar energías este fin de semana que se viene un martes recargado!!
 
-
 SUPER CONCENTRADOS!!
+
+###### MATERIAL DE CLASE
+https://drive.google.com/open?id=1L-1X8A9xsNrRDJJed6AVC78NDlf1PDy4
 
 ###### FOTOS DE LA CLASE
 
-image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto1.PNG[]
+image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto1.png[]
 
-image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto2.PNG[]
+image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto2.png[]

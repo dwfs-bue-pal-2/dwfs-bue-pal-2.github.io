@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 06 Aug 2018 22:06:04 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 4]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Acamina]]></title><description><![CDATA[Curso Desarrollo Web Full Stack Sede Palermo 2]]></description><link>https://dwfs-bue-pal-2.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 09 Aug 2018 21:59:12 GMT</lastBuildDate><atom:link href="https://dwfs-bue-pal-2.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[CLASE 5]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>07/08/2018</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_objetivos">OBJETIVOS</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Trabajar en equipo, integrándonos más</p>
+</li>
+<li>
+<p>Maquetar en parejas. Seguimos con twitter</p>
+</li>
+</ul>
+</div>
+<div class="sect3">
+<h4 id="_actividades">ACTIVIDADES</h4>
+<div class="sect4">
+<h5 id="_el_extraterrestre">“El extraterrestre”</h5>
+<div class="paragraph">
+<p>Juego para fomentar el trabajo en equipo. Nos dividimos en grupos de 6 personas aproximadamente. Cada grupo debe imaginar la forma de vida de un extraterrestre, su cultura, sus formas, sus valores, etc. Lo tienen que escribir y dibujar en una hoja. En la segunda parte del juego, el extraterrestre viaja a Argentina, y necesita relacionarse con los habitantes de ese lugar. Entonces pensamos, cómo lo tratan las demás personas, y qué esfuerzos tiene que hacer el extraterrestre para relacionarse. Finalmente reflexionamos.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_practica">Practica</h5>
+<div class="paragraph">
+<p>En la segunda parte de la clase nos dividimos por parejas para maquetar twitter. La clase fue bastante práctica con el objetivo de terminar de afianzar conocimientos de lo visto hasta ahora antes de la entrega del primer tp. Recuerden ver los videos subidos a la plataforma y consultar dudas.</p>
+</div>
+<div class="sect5">
+<h6 id="_fotos_de_la_clase">FOTOS DE LA CLASE</h6>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase5/foto1.PNG" alt="foto1">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase5/foto2.PNG" alt="foto2">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase5/foto3.PNG" alt="foto3">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase5/foto4.PNG" alt="foto4">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase5/foto5.PNG" alt="foto5">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase5/foto6.PNG" alt="foto6">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase5/foto7.PNG" alt="foto7">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase5/foto8.PNG" alt="foto8">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/08/07/CLASE-5.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/08/07/CLASE-5.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[HTML]]></category><category><![CDATA[CSS]]></category><category><![CDATA[Clase 4]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 4]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>02/08/2018</p>
@@ -7,37 +84,64 @@
 </div>
 <div class="sect2">
 <h3 id="_objetivos">OBJETIVOS</h3>
-
+<div class="ulist">
+<ul>
+<li>
+<p>Ver objetivos individuales para la cursada y conocimientos previos</p>
+</li>
+<li>
+<p>CSS, segunda parte. Modelo de caja, posicionamiento</p>
+</li>
+<li>
+<p>Juego para afianzar conocimientos de HTML y CSS</p>
+</li>
+<li>
+<p>Cierre. Maquetado de una página</p>
+</li>
+</ul>
 </div>
-<h1 id="_ver_objetivos_individuales_para_la_cursada_y_conocimientos_previos" class="sect0">Ver objetivos individuales para la cursada y conocimientos previos</h1>
-
-<h1 id="_css_segunda_parte_modelo_de_caja_posicionamiento" class="sect0">CSS, segunda parte. Modelo de caja, posicionamiento</h1>
-
-<h1 id="_juego_para_afianzar_conocimientos_de_html_y_css" class="sect0">Juego para afianzar conocimientos de HTML y CSS</h1>
-
-<h1 id="_cierre_maquetado_de_una_página" class="sect0">Cierre. Maquetado de una página</h1>
+</div>
 <div class="sect2">
 <h3 id="_actividades">ACTIVIDADES</h3>
 <div class="paragraph">
 <p>En los primeros minutos de la clase, cada alumno completó una planilla con sus objetivos para la cursada, y sus conocimientos previos sobre programación, en caso de tenerlos. Esto nos sirve para poder organizarnos más en el aprendizaje.</p>
 </div>
+<div class="sect3">
+<h4 id="_css">CSS</h4>
 <div class="paragraph">
-<p>CSS. Modelo de caja, posicionamiento: Arrancamos viendo el uso de la propiedad box-shadow para poder darle un borde a todos los elementos y poder entender el espacio que ocupan en nuestra página. Cada vez que tengamos que trabajar con columnas visualmente, vamos a tener que tener un elemento padre con el cual vamos a trabajar. Vimos como trabajar con la propiedad float. Cuando estamos trabajando con el modelo de cajas, tenemos que saber que todos los elementos ocupan un alto y un ancho en nuestra página. Cuando asignamos el ancho y el alto a un elemento, este está compuesto por tres cosas: el ancho (width), el padding y el borde. Cuando nosotros asignamos la propiedad width o height, las propiedades padding y border hacen que el ancho y/o alto del elemento, sea más grande. Para solucionar este problema existe una propiedad llamada box-sizing a la cual podemos asignarle como valor border-box. Esta propiedad asignada de esta forma hace que el valor que le asignemos a nuestro width o height sea el que ocupa en la página, y el navegador se encargue de calcular el borde y el padding sin afectar el tamaño que hayamos asignado.</p>
+<p>Modelo de caja, posicionamiento: Arrancamos viendo el uso de la propiedad box-shadow para poder darle un borde a todos los elementos y poder entender el espacio que ocupan en nuestra página. Cada vez que tengamos que trabajar con columnas visualmente, vamos a tener que tener un elemento padre con el cual vamos a trabajar. Vimos como trabajar con la propiedad float. Cuando estamos trabajando con el modelo de cajas, tenemos que saber que todos los elementos ocupan un alto y un ancho en nuestra página. Cuando asignamos el ancho y el alto a un elemento, este está compuesto por tres cosas: el ancho (width), el padding y el borde. Cuando nosotros asignamos la propiedad width o height, las propiedades padding y border hacen que el ancho y/o alto del elemento, sea más grande. Para solucionar este problema existe una propiedad llamada box-sizing a la cual podemos asignarle como valor border-box. Esta propiedad asignada de esta forma hace que el valor que le asignemos a nuestro width o height sea el que ocupa en la página, y el navegador se encargue de calcular el borde y el padding sin afectar el tamaño que hayamos asignado.</p>
 </div>
+</div>
+<div class="sect3">
+<h4 id="_juego_para_afianzar_conceptos_vistos_hasta_el_momento">Juego para afianzar conceptos vistos hasta el momento</h4>
 <div class="paragraph">
-<p>Juego para afianzar conceptos vistos hasta el momento: Nos dividimos en parejas. Cada pareja recibe el nombre de varias etiquetas HTML  y conceptos de CSS y, por tiempo, tienen que escribir las definiciones. Las demás parejas tendrían que adivinar a qué conceptos corresponde cada definición. Gana el equipo al que más definiciones le adivinan. Socializamos las definiciones y los conceptos y corregimos y ajustamos conceptos entre todos.</p>
+<p>Nos dividimos en parejas. Cada pareja recibe el nombre de varias etiquetas HTML  y conceptos de CSS y, por tiempo, tienen que escribir las definiciones. Las demás parejas tendrían que adivinar a qué conceptos corresponde cada definición. Gana el equipo al que más definiciones le adivinan. Socializamos las definiciones y los conceptos y corregimos y ajustamos conceptos entre todos.</p>
 </div>
 <div class="paragraph">
 <p>Antes de finalizar la clase, los desafiamos a maquetar twitter. ¡Manos a la obra!</p>
 </div>
-</div>
-<div class="sect2">
-<h3 id="_próxima_clase">PRÓXIMA CLASE</h3>
+<div class="sect5">
+<h6 id="_próxima_clase">PRÓXIMA CLASE</h6>
 <div class="paragraph">
 <p>Seguiremos afianzando HTML y CSS. ¡¡Vengan con dudas!!</p>
 </div>
 <div class="paragraph">
 <p>QUEMANDO EL BOCHO CON LAS DEFINICIONES DE HTML Y CSS</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_material_de_clase">MATERIAL DE CLASE</h5>
+<div class="sect5">
+<h6 id="_imagen_a_maquetar">IMAGEN A MAQUETAR</h6>
+<div class="paragraph">
+<p><a href="https://drive.google.com/open?id=1iYui0EB7gm8-dfC68Ydfb3MTaE5IPFvT" class="bare">https://drive.google.com/open?id=1iYui0EB7gm8-dfC68Ydfb3MTaE5IPFvT</a></p>
+</div>
+</div>
+<div class="sect5">
+<h6 id="_archivo_imagenes">ARCHIVO IMAGENES</h6>
+<div class="paragraph">
+<p><a href="https://drive.google.com/open?id=1ZMUnSyQ61Io5tc93kULdrjAZlW1u6fCv" class="bare">https://drive.google.com/open?id=1ZMUnSyQ61Io5tc93kULdrjAZlW1u6fCv</a></p>
+</div>
 </div>
 <div class="sect5">
 <h6 id="_fotos_de_la_clase">FOTOS DE LA CLASE</h6>
@@ -87,6 +191,8 @@
 </div>
 </div>
 </div>
+</div>
+</div>
 </div>]]></description><link>https://dwfs-bue-pal-2.github.io/2018/08/02/CLASE-4.html</link><guid isPermaLink="true">https://dwfs-bue-pal-2.github.io/2018/08/02/CLASE-4.html</guid><category><![CDATA[Acamica]]></category><category><![CDATA[HTML]]></category><category><![CDATA[CSS]]></category><category><![CDATA[Clase 4]]></category><dc:creator><![CDATA[Acamica DWFS Sede Palermo 2]]></dc:creator><pubDate>Thu, 02 Aug 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[CLASE 3]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
@@ -96,24 +202,40 @@
 </div>
 <div class="sect2">
 <h3 id="_objetivos">OBJETIVOS</h3>
-
+<div class="ulist">
+<ul>
+<li>
+<p>Repaso de HTML. Juego ¿Who i am?</p>
+</li>
+<li>
+<p>Presentación del primer TP. CV online</p>
+</li>
+<li>
+<p>Introducción a CSS</p>
+</li>
+</ul>
 </div>
-<h1 id="_repaso_de_html_juego_who_i_am" class="sect0">Repaso de HTML. Juego ¿Who i am?</h1>
-
-<h1 id="_presentación_del_primer_tp_cv_online" class="sect0">Presentación del primer TP. CV online</h1>
-
-<h1 id="_introducción_a_css" class="sect0">Introducción a CSS</h1>
+</div>
 <div class="sect2">
 <h3 id="_actividades">ACTIVIDADES</h3>
+<div class="sect3">
+<h4 id="_repaso_de_la_clase_anterior">Repaso de la clase anterior</h4>
 <div class="paragraph">
-<p>Repaso de la clase anterior: Nos dividimos en grupos para jugar al ¿Who i am?. Luego repartimos tarjetas para cada grupo con códigos de HTML. El objetivo fue adivinar qué concepto se corresponde con el código que le tocó a cada integrante del grupo.
+<p>Nos dividimos en grupos para jugar al ¿Who i am?. Luego repartimos tarjetas para cada grupo con códigos de HTML. El objetivo fue adivinar qué concepto se corresponde con el código que le tocó a cada integrante del grupo.
 De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un poco en el aprendizaje.</p>
 </div>
-<div class="paragraph">
-<p>Presentación del TP CV online: Vimos en power point un ejemplo de cómo les quedaría terminado el CV, el primer TP de la carrera. Recuerden que aproximadamente les debería llevar unas dos semanas terminarlo. No se olviden de ver los videos subidos a la plataforma para ayudarse, y de preguntar dudas por Slack y en las clases presenciales.</p>
 </div>
+<div class="sect3">
+<h4 id="_presentación_del_tp_cv_online">Presentación del TP CV online</h4>
 <div class="paragraph">
-<p>Introducción a CSS: CSS es un lenguaje de programación. ¿Qué es CSS básicamente? CSS le da formato y estilo a HTML. Apunta a HTML. La sintaxis de CSS, se forma con el SELECTOR, el cual nos va a dirigir lo que queremos pintar, la PROPIEDAD, es decir, qué quiero cambiar, por ejemplo el color de un texto, y el VALOR, cómo lo puedo cambiar.</p>
+<p>Vimos en power point un ejemplo de cómo les quedaría terminado el CV, el primer TP de la carrera. Recuerden que aproximadamente les debería llevar unas dos semanas terminarlo. No se olviden de ver los videos subidos a la plataforma para ayudarse, y de preguntar dudas por Slack y en las clases presenciales.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_introducción_a_css">Introducción a CSS</h4>
+<div class="paragraph">
+<p>CSS es un lenguaje de programación. ¿Qué es CSS básicamente? CSS le da formato y estilo a HTML. Apunta a HTML. La sintaxis de CSS, se forma con el SELECTOR, el cual nos va a dirigir lo que queremos pintar, la PROPIEDAD, es decir, qué quiero cambiar, por ejemplo el color de un texto, y el VALOR, cómo lo puedo cambiar.</p>
+</div>
 </div>
 </div>
 <div class="sect2">
@@ -124,6 +246,12 @@ De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un p
 <div class="paragraph">
 <p>DIVIRTIÉNDONOS Y APRENDIENDO HTML CON ¿WHO I AM?
 ¡¡Buscate en las fotos!!!</p>
+</div>
+<div class="sect5">
+<h6 id="_material_de_clase">MATERIAL DE CLASE</h6>
+<div class="paragraph">
+<p><a href="https://drive.google.com/open?id=18agdX-SQZarN8Ym0Sd0OQrP3wWln-KxR" class="bare">https://drive.google.com/open?id=18agdX-SQZarN8Ym0Sd0OQrP3wWln-KxR</a></p>
+</div>
 </div>
 <div class="sect5">
 <h6 id="_fotos_de_la_clase">FOTOS DE LA CLASE</h6>
@@ -167,23 +295,34 @@ De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un p
 </div>
 <div class="sect2">
 <h3 id="_objetivos_de_la_clase">OBJETIVOS DE LA CLASE</h3>
-
+<div class="ulist">
+<ul>
+<li>
+<p>Seguir conociéndonos</p>
+</li>
+<li>
+<p>Introducción a HTML</p>
+</li>
+<li>
+<p>DIV</p>
+</li>
+</ul>
 </div>
-<h1 id="_seguir_conociéndonos" class="sect0">Seguir conociéndonos</h1>
-
-<h1 id="_introducción_a_html" class="sect0">Introducción a HTML</h1>
-
-<h1 id="_div" class="sect0">DIV</h1>
-
-<h1 id="_actividades" class="sect0">ACTIVIDADES</h1>
+</div>
+<div class="sect2">
+<h3 id="_actividades">ACTIVIDADES</h3>
 <div class="paragraph">
 <p>Ejercicio para seguir conociéndonos y descontracturarnos un poco: Comenzamos a caminar por el espacio, entre cruzamos miradas con los otros, y al momento de decir STOP, todos dejamos de caminar y nos pusimos a hablar con el compañero más próximo, de cómo fue nuestra rutina desde que nos levantamos hasta que llegamos a la clase. Finalmente hicimos una puesta en común de los nombres nuevamente.</p>
 </div>
+<div class="sect3">
+<h4 id="_introducción_a_html">Introducción a HTML</h4>
 <div class="paragraph">
-<p>Introducción a HTML: ¿Qué es HTML?, como dijo Max, básicamente es meter cosas dentro de cosas. Tenemos que tener en cuenta que para crear nuestro archivo HTML, hay tres etiquetas que TODO documento tiene que tener: HTML, HEAD (contenido de la página), BODY (lo que se va a ver en el navegador). Se organiza de h1 a h6. Por ejemplo h1 sería el título de un libro (harry potter), h2 el subtítulo (la piedra filosofal), y h3 el nombre del capítulo (capítulo 1). Luego de ver estos temas, pusimos las manos en la masa e investigamos sobre HTML. Hicimos un desafío, hacer una receta de cocina con HTML, si no sabes cocinar, no importa, inventas los ingredientes!!</p>
+<p>¿Qué es HTML?, como dijo Max, básicamente es meter cosas dentro de cosas. Tenemos que tener en cuenta que para crear nuestro archivo HTML, hay tres etiquetas que TODO documento tiene que tener: HTML, HEAD (contenido de la página), BODY (lo que se va a ver en el navegador). Se organiza de h1 a h6. Por ejemplo h1 sería el título de un libro (harry potter), h2 el subtítulo (la piedra filosofal), y h3 el nombre del capítulo (capítulo 1). Luego de ver estos temas, pusimos las manos en la masa e investigamos sobre HTML. Hicimos un desafío, hacer una receta de cocina con HTML, si no sabes cocinar, no importa, inventas los ingredientes!!</p>
 </div>
 <div class="paragraph">
 <p>¿Qué es el DIV? Es una caja para distribuir cosas, se usa junto con CSS para hacer más atractiva la página. Básicamente el DIV sirve para agrupar cosas, para poder moverlas y cambiarlas.</p>
+</div>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_cierre">Cierre</h3>
@@ -201,15 +340,21 @@ De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un p
 <p>SUPER CONCENTRADOS!!</p>
 </div>
 <div class="sect5">
+<h6 id="_material_de_clase">MATERIAL DE CLASE</h6>
+<div class="paragraph">
+<p><a href="https://drive.google.com/open?id=1L-1X8A9xsNrRDJJed6AVC78NDlf1PDy4" class="bare">https://drive.google.com/open?id=1L-1X8A9xsNrRDJJed6AVC78NDlf1PDy4</a></p>
+</div>
+</div>
+<div class="sect5">
 <h6 id="_fotos_de_la_clase">FOTOS DE LA CLASE</h6>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto1.PNG" alt="foto1">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto1.png" alt="foto1">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto2.PNG" alt="foto2">
+<img src="https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase2/foto2.png" alt="foto2">
 </div>
 </div>
 </div>
@@ -264,6 +409,12 @@ De esa manera, jugando, pudimos repasar los conceptos de HTML, y ordenarnos un p
 <h6 id="_para_la_próxima">PARA LA PRÓXIMA</h6>
 <div class="paragraph">
 <p>Vamos a meternos de lleno con HTML y vamos a resolver dudas.</p>
+</div>
+</div>
+<div class="sect5">
+<h6 id="_material_de_clase">MATERIAL DE CLASE</h6>
+<div class="paragraph">
+<p><a href="https://drive.google.com/open?id=1-9GyRKShML9R2iiEK2XysYhGP0ixICyj" class="bare">https://drive.google.com/open?id=1-9GyRKShML9R2iiEK2XysYhGP0ixICyj</a></p>
 </div>
 </div>
 <div class="sect5">

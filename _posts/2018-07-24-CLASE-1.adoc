@@ -26,6 +26,9 @@ Nos introducimos de lleno en la web, y comenzamos a jugar un poco con HTML.
 ###### PARA LA PRÓXIMA
 Vamos a meternos de lleno con HTML y vamos a resolver dudas.
 
+###### MATERIAL DE CLASE
+https://drive.google.com/open?id=1-9GyRKShML9R2iiEK2XysYhGP0ixICyj
+
 ###### FOTOS DE LA CLASE
 
 image::https://raw.githubusercontent.com/dwfs-bue-pal-2/dwfs-bue-pal-2.github.io/master/images/clase1/foto1.PNG[]
